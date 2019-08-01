@@ -35,7 +35,7 @@ me@xdefrag.dev
 
 Architecture building and microservice development for Nanopool mining pool.
 
-Achivements:
+Achievements:
 
 -   Monorepo for microservices, common modules and tests
 -   CI with unit and integration testing, benchmarks and lint tools
@@ -48,9 +48,9 @@ Achivements:
 
 ### Aug 2017 - Aug 2018
 
-Architectre building and development of application's core business logic, configuring CI/CD, code review, developers team management (2-5 devs).
+Architecture building and development of application's core business logic, configuring CI/CD, code review, developers team management (2-5 devs).
 
-Achivements:
+Achievements:
 
 -   Bank statements import system in any format
 -   Automatic account book
@@ -67,20 +67,20 @@ Achivements:
 
 System's modules development, code refactoring.
 
-Achivements:
+Achievements:
 
 -   ABBYY OCR data processing with term position visualisation
 -   Interactive tables with specific data, order and viewing rules
 
 
-## Fullstack developer at Altay Tire Plant
+## Fullstack developer at Altai Tire Plant
 
 
 ### Jun 2016 - Dec 2016
 
 Web development.
 
-Achivements:
+Achievements:
 
 -   Price formation with integration of third party delivery companies
 -   Interactive b2b clients presentation
@@ -94,7 +94,7 @@ Achivements:
 
 Web development.
 
-Achivements:
+Achievements:
 
 -   Solar system layout with navigation and descriptions (WebGL)
 
