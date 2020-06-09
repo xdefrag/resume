@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 emacsclient --eval "(let ((file \"$(pwd)/resume.org\"))
     (with-current-buffer (find-file-noselect file)
     (progn

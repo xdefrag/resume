@@ -1,21 +1,19 @@
 <div class="org-center">
 Stanislav Karkavin
 
-****Backend developer****
+****Software engineer****
 
 me@xdefrag.dev
+
+t.me/xdefrag
 </div>
 
 
 # Skills:
 
-****Development principles:**** TDD, Clean architecture, MVC, ECS
+****Principles:**** TDD, Clean architecture
 
-****Languages:**** Go, Lua, PHP, TypeScript/JavaScript, SQL
-
-****Databases:**** Postgresql, Redis, Tarantool, Clickhouse, Etcd
-
-****CI/CD:**** GitlabCI, Docker, Kubernetes
+****Preferred tools:**** Go, Kubernetes, GitlabCI, RabbitMQ, PostgreSQL, Redis, Protobuf
 
 
 # Knowledge:
@@ -28,14 +26,25 @@ me@xdefrag.dev
 # Experience:
 
 
+## Go Senior Developer / Team Lead at Devim
+
+
+### Aug 2019 - Now
+
+Microservices development for Devim Finance platform and team management:
+
+-   Creating sharing knowledge culture
+-   Unit and integration testing, code style
+-   Creating definitions of Done (logging, metrics, tracing, code coverage requirements)
+-   Moving microservices from DCOS to Kubernetes
+
+
 ## Go Developer at Sudo team
 
 
 ### Nov 2018 - Apr 2019
 
-Architecture building and microservice development for Nanopool mining pool.
-
-Achievements:
+Architecture building and microservice development for Nanopool mining pool:
 
 -   Monorepo for microservices, common modules and tests
 -   CI with unit and integration testing, benchmarks and lint tools
@@ -48,9 +57,7 @@ Achievements:
 
 ### Aug 2017 - Aug 2018
 
-Architecture building and development of application's core business logic, configuring CI/CD, code review, developers team management (2-5 devs).
-
-Achievements:
+Architecture building and development of application's core business logic, configuring CI/CD, code review, developers team management (2-5 devs):
 
 -   Bank statements import system in any format
 -   Automatic account book
@@ -67,11 +74,6 @@ Achievements:
 
 System's modules development, code refactoring.
 
-Achievements:
-
--   ABBYY OCR data processing with term position visualisation
--   Interactive tables with specific data, order and viewing rules
-
 
 ## Fullstack developer at Altai Tire Plant
 
@@ -80,12 +82,6 @@ Achievements:
 
 Web development.
 
-Achievements:
-
--   Price formation with integration of third party delivery companies
--   Interactive b2b clients presentation
--   Server optimization
-
 
 ## Fullstack developer at Webkot
 
@@ -93,8 +89,4 @@ Achievements:
 ### Feb 2015 - Aug 2015
 
 Web development.
-
-Achievements:
-
--   Solar system layout with navigation and descriptions (WebGL)
 
